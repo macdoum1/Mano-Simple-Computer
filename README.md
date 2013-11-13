@@ -1,6 +1,6 @@
 Mano-Simple-Computer
-Developers: Michael MacDougall & Peter Swetits
 ====================
+Developers: Michael MacDougall & Peter Swetits
 
 Mano Simple Computer designed in Logicworks 4.6 by Capilano 
 Computing Systems.
