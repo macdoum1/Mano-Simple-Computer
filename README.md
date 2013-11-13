@@ -15,8 +15,8 @@ be copied into the Simple Computer Circuit file and executed.
 
 The instruction set is listed below:
 
-Memory-Reference<br>
-  Direct<br>
+<b>Memory-Reference</b><br><br>
+  <b>Direct</b><br>
     AND<br>
       0xxx<br>
     ADD<br>
@@ -31,7 +31,7 @@ Memory-Reference<br>
       5xxx<br>
     ISZ<br>
       6xxx<br>
-  Indirect<br>
+  <b>Indirect</b><br>
     AND<br>
       8xxx<br>
     ADD<br>
@@ -45,8 +45,8 @@ Memory-Reference<br>
     BSA<br>
       Dxxx<br>
     ISZ<br>
-      Exxx<br>
-Register-Reference<br>
+      Exxx<br><br>
+<b>Register-Reference</b><br><br>
   CLA<br>
     7800<br>
   CLE<br>
@@ -70,8 +70,8 @@ Register-Reference<br>
   SZE<br>
     7002<br>
   HLT<br>
-    7001<br>
-Input-Output<br>
+    7001<br><br>
+<b>Input-Output</b><br><br>
   INP<br>
     F800<br>
   OUT<br>
